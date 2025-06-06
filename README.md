@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Pradip karathiya
-- 👀 I have 6+ years of experience as a PHP WordPress joomla developer and designer. 
-- 🌱 Check out our development and design growth here https://techks.rf.gd ...
+- 👀 I have 6+ years of experience as a PHP WordPress joomla developer and designer.
